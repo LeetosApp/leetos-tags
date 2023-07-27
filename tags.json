@@ -65,7 +65,7 @@
       "tree",
       "trie",
       "two-pointers",
-      "union-find",
+      "union-find"
     ],
 "companies" : [
       "adobe",
@@ -122,6 +122,6 @@
       "walmart",
       "yahoo",
       "zoho",
-      "zscaler",
+      "zscaler"
     ]
 }
