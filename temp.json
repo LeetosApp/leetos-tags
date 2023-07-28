@@ -4,5 +4,6 @@
     "latest_version":14,
     "flag":1,
     "msg":"Mongodb ally",
-    "options":["Install"]
+    "options":["Install"],
+    "app_url":"https://play.google.com/store/apps/details?id=com.leetos"
 }
