@@ -1,5 +1,5 @@
 {
-    "database_url":"http://192.168.29.80:5000",
+    "database_url":"https://leetcode-ally-be.vercel.app",
     "vercel_api":"https://leetos-api-mocha.vercel.app",
     "latest_version":14,
     "flag":0,
